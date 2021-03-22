@@ -1,2 +1,2 @@
-# altv-localserver
-zum üben
+# altv-server
+ localserver

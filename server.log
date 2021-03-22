@@ -1,0 +1,29 @@
+[09:47:46] alt:V Server 3.0-rc5 (rc)
+[09:47:46] Starting alt:V test server on 0.0.0.0:7788
+[09:47:46] Loading resource example
+[09:47:47] Loading resource chat
+[09:47:47] Loaded resource chat
+[09:47:47] Loaded resource example
+[09:47:47] Required server permissions:
+[09:47:47] Optional server permissions:
+[09:47:47] Starting HTTP server on 0.0.0.0:7788
+[09:47:47] Main thread started (ThreadId: 18828)
+[09:47:47] Colshape thread started (ThreadId: 28624)
+[09:47:47] EntityStreamer thread started (ThreadId: 19804)
+[09:47:47] Network thread started (ThreadId: 7680)
+[09:47:47] Console thread started (ThreadId: 17324)
+[09:47:47] Server started
+[09:48:56] [chat:cmd] karussellbremser86: /loadpage
+[09:49:14][Warning] Event handler at example:file:///C:/Users/karus/Desktop/altv-server/resources/example/server/server.mjs:54 was too long 32ms
+[09:51:30][Warning] ReceiveData() took: 71 ms, received events:  2 , packets sent:  0
+[09:57:57][Warning] ReceiveData() took: 52 ms, received events:  1 , packets sent:  0
+[10:01:37][Warning] ReceiveData() took: 52 ms, received events:  2 , packets sent:  0
+[10:05:35][Warning] ReceiveData() took: 60 ms, received events:  2 , packets sent:  2
+[10:10:14][Warning] ReceiveData() took: 89 ms, received events:  3 , packets sent:  0
+[10:11:45][Warning] ReceiveData() took: 68 ms, received events:  1 , packets sent:  2
+[10:11:45][Warning] ReceiveData() took: 54 ms, received events:  3 , packets sent:  4
+[10:25:19] Stopping resource example
+[10:25:19] Stopped resource example
+[10:25:19] Stopping resource chat
+[10:25:19] Stopped resource chat
+[10:25:19] Server shutdown
